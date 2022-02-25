@@ -1,2 +1,2 @@
 # ShoppingList
-![shoppingGif](https://user-images.githubusercontent.com/93860490/155716925-06d21e71-2cda-45a5-bf57-69760005e4af.gif)
+![shoppingListGif](https://user-images.githubusercontent.com/93860490/155717755-7283fa19-67ed-4813-b8b0-950238a244e0.gif)
